@@ -1,9 +1,9 @@
-### Olá! Me chamo Lucas Lima 😄
-![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/lucas-lima-b91b94245/)
+<h1> Olá! Me chamo Lucas Lima 😄 </h1>
 
-![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (mailto:lucasrobertodacostac@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-b91b94245/)
 
-![Whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) (https://api.whatsapp.com/send?phone=5519996560358&text=Olá!/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/)](mailto:lucasrobertodacostac@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCostLima&show_icons=true&theme=prussian)
 
@@ -20,5 +20,10 @@
 </div>
 
 <h2>Sobre mim </h2>
-* Atualmente Estudando Segurança da Informação na Unip. <br>
-* Formado em Desesenvolvimento De Sistemas pela Etec Mogi Mirim.
+
+
+-  Atualmente Estudando Segurança da Informação na Unip. 
+
+-  Formado em Analise e Desesenvolvimento De Sistemas pela Etec Mogi Mirim. 
+
+- Buscando Me aprimorar nas tecnologias citadas acima.
