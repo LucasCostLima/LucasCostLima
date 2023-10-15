@@ -17,9 +17,6 @@
 
 <h2>Sobre mim </h2>
 
-
--  Atualmente Estudando Segurança da Informação na Unip. 
-
 -  Formado em Analise e Desesenvolvimento De Sistemas pela Etec Mogi Mirim. 
 
 - Buscando Me aprimorar nas tecnologias citadas acima.
