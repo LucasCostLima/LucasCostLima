@@ -19,6 +19,8 @@
 
 <h2>Sobre mim </h2>
 
--  Formado em Analise e Desesenvolvimento De Sistemas pela Etec Mogi Mirim. 
+-  Formado em Analise e Desesenvolvimento De Sistemas pela Etec Mogi Mirim.
+
+- Tecnologias: Javascript, Typescript, Node.js e outras.
 
 - Buscando me aprimorar nas tecnologias citadas acima.
